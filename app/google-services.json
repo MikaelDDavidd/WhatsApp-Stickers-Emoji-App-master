@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "544048493298",
+    "project_id": "audios-de-memes-engracados",
+    "storage_bucket": "audios-de-memes-engracados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544048493298:android:2e6712dbc6af853d67966b",
+        "android_client_info": {
+          "package_name": "dev.kael.dev.kael.stickers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wDnBJFnOsoJPqji67u3Wja3UlRCWwxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544048493298:android:45d3f0fc648ea33f67966b",
+        "android_client_info": {
+          "package_name": "dev.kael.stickers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wDnBJFnOsoJPqji67u3Wja3UlRCWwxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544048493298:android:674c007fcaedebe367966b",
+        "android_client_info": {
+          "package_name": "pereira.audios.memes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544048493298-62ilgau4gv2lb8r2fgfsijumr5mn2m5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pereira.audios.memes",
+            "certificate_hash": "93321e1e829511903ffb900a0d2c9810d336263d"
+          }
+        },
+        {
+          "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wDnBJFnOsoJPqji67u3Wja3UlRCWwxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544048493298-c5u6garvafo8ksdhdcp9d2c58mg3tkur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9973248356722033~6693265233"
+    }
+  ],
+  "configuration_version": "1"
+}

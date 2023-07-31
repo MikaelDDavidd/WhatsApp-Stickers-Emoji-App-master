@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vimalcvs:Day-Night-Switch:1.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a794857107425a30d60ddb2c4e97c07/transformed/jetified-Day-Night-Switch-1.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4a794857107425a30d60ddb2c4e97c07/transformed/jetified-Day-Night-Switch-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4a794857107425a30d60ddb2c4e97c07/transformed/jetified-Day-Night-Switch-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vimalcvs/Day-Night-Switch/1.0.3/2485769753468d6db7567c9f6123c47cc198faf9/Day-Night-Switch-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
