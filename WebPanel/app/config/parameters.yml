@@ -2,9 +2,9 @@
 parameters:
     database_host: localhost
     database_port: 3306
-    database_name: stickers_test
-    database_user: root
-    database_password: root
+    database_name: kaeldevo_figurinhas_app
+    database_user: kaeldevo_kael
+    database_password: lVbdHrt9lRHM
     mailer_transport: smtp
     mailer_host: 127.0.0.1
     mailer_user: null
